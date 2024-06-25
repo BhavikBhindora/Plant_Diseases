@@ -24,7 +24,7 @@ Our mission is to help in identifying plant diseases efficiently. Upload an imag
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/plant-disease-recognition.git
+    git clone https://github.com/cizodevahm/plant-disease-recognition.git
     cd plant-disease-recognition
     ```
 
