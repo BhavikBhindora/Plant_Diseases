@@ -25,7 +25,7 @@ Our mission is to help in identifying plant diseases efficiently. Upload an imag
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/BhavikBhindora/Plant_Diseases.git
-    cd plant-disease-recognition
+    cd Plant_Diseases
     ```
 
 
